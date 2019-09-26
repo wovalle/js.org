@@ -604,6 +604,7 @@ var cnames_active = {
   "fikri": "ikrydev.github.io/fikri.js.org",
   "filer": "filerjs.github.io/filer",
   "finder": "applait.github.io/finderjs", // noCF? (don´t add this in a new PR)
+  "fireorm": "wovalle.github.io/fireorm",
   "fire-hydrant": "cchamberlain.github.io/fire-hydrant", // noCF? (don´t add this in a new PR)
   "firenze": "fahad19.github.io/firenze", // noCF? (don´t add this in a new PR)
   "five": "jackdcrawford.github.io/five",
